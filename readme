@@ -1,0 +1,16 @@
+ Étape 1 : Afficher une fenêtre avec SDL2 ✅
+ Étape 2 : Chargement d’une Carte ASCII :   W = Eau 🟦
+                                            . = Plaine 🟩
+                                            V = Ville 🏠
+                                            T = Tour 🏰
+
+
+
+ execution :
+ cd build
+ cmake ..
+ make 
+ ./KonkrGame
+
+
+
