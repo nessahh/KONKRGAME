@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/KonkrGame.dir/src/main.cpp.o CMakeFiles/KonkrGame.dir/src/Game.cpp.o CMakeFiles/KonkrGame.dir/src/Renderer.cpp.o CMakeFiles/KonkrGame.dir/src/Map.cpp.o -o KonkrGame  -L/usr/lib/x86_64-linux-gnu  -lSDL2 

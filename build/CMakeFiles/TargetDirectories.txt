@@ -1,0 +1,3 @@
+/home/kahina/KonkrGame/build/CMakeFiles/KonkrGame.dir
+/home/kahina/KonkrGame/build/CMakeFiles/edit_cache.dir
+/home/kahina/KonkrGame/build/CMakeFiles/rebuild_cache.dir
